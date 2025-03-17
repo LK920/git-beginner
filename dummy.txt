@@ -1,3 +1,5 @@
 reset을 위한 dummy.txt
 
 restore test
+
+add만 했을 경우
