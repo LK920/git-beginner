@@ -1,1 +1,1 @@
-rest을 위한 dummy.txt
+reset을 위한 dummy.txt
